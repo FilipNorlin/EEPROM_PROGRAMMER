@@ -1,0 +1,111 @@
+# Socket files
+*.sock
+
+# Environment folders
+env/
+env.bak/
+ENV/
+venv/
+venv.bak/
+
+# Temporary files
+*.temp
+*.tmp
+*.bak
+*.old
+*.orig
+*.save
+
+# Egg files
+*.egg
+*.egg-info/
+
+# PID files
+*.pid
+
+# Log files
+*.log
+
+# Backup files
+*~
+
+# Distribution files
+dist/
+
+# Python bytecode files
+*.py[cod]
+
+# Project specific files
+.spyproject
+.spyderproject
+interactive_git.py
+
+# Swap files
+*.swp
+
+# Windows files
+Desktop.ini
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
+
+# MacOS files
+.DS_Store
+
+# Compiled object files
+*.so
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Django stuff
+instance/
+.Python
+
+# Scrapy
+.scrapy
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Coverage reports
+*.cover
+.coverage
+.coverage.*
+
+# Pyre type checker
+.pyre/
+
+# Sphinx documentation
+docs/_build/
+
+# VS Code
+.vscode/
+
+# tox
+.tox/
+.nox/
+
+# Build directories
+build/
+target/
+
+# SQLite databases
+*.sqlite
+
+# SQL files
+*.sql
+
+# Web assets cache
+.webassets-cache
