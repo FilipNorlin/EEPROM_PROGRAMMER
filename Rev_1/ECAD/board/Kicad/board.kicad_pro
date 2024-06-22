@@ -330,6 +330,14 @@
     [
       "a9c4ef02-6c48-4ddc-bd95-3bc4e5cf2494",
       "MCU"
+    ],
+    [
+      "86ee93c3-557f-4dc7-a98b-7b4dc8a79ba7",
+      "Voltage Input"
+    ],
+    [
+      "8a8f851a-667b-4326-8a5d-778d8daa801e",
+      "Data Logic"
     ]
   ],
   "text_variables": {}
