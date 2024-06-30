@@ -1183,9 +1183,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 105da24c-669f-44f5-b11f-84d673860279))
-    (pin "2" (uuid f2d24a15-bedf-4790-9842-1a45ffac9028))
-    (pin "2" (uuid f2d24a15-bedf-4790-9842-1a45ffac9028))
-    (pin "2" (uuid f2d24a15-bedf-4790-9842-1a45ffac9028))
+    (pin "2" (uuid f2d24a15-bedf-4790-9842-1a45ffac902a))
+    (pin "2" (uuid f2d24a15-bedf-4790-9842-1a45ffac902a))
+    (pin "2" (uuid f2d24a15-bedf-4790-9842-1a45ffac902a))
     (pin "3" (uuid 3475aa7a-3114-477a-824e-ec400425c4d7))
     (pin "5" (uuid bfda78b8-8a0a-4e5b-8943-eb89faa8643a))
     (instances
