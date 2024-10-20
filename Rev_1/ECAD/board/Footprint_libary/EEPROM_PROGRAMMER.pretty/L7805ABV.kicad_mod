@@ -1,7 +1,7 @@
 (footprint "L7805ABV" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr through_hole)
-  (fp_text reference "REF**" (at 0 -8.08 unlocked) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 0 -4.5 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.1)))
     (tstamp 8bbde83e-bfd6-4587-af2d-838895091481)
   )

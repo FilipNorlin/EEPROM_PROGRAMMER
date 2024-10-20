@@ -1,7 +1,7 @@
 (footprint "ATMega328P-AU" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
-  (fp_text reference "ATMega328P-AU" (at 0 -7.2 unlocked) (layer "F.SilkS")
+  (fp_text reference "ATMega328P-AU" (at 0 -6.75 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.1)))
     (tstamp b5597c1a-3dc6-4e79-8c04-b7f7f1fb5006)
   )
