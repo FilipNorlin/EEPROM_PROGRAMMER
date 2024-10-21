@@ -1948,10 +1948,10 @@
   (symbol (lib_id "EEPROM_PROGRAMMER:L7805ABV") (at 64.77 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid db8de054-4200-4389-a5a5-b373babeea55)
-    (property "Reference" "U4" (at 64.77 88.265 0)
+    (property "Reference" "U203" (at 64.77 87.63 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "L7805ABV" (at 64.77 90.805 0)
+    (property "Value" "L7805ABV" (at 64.77 90.17 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "EEPROM_PROGRAMMER:L7805ABV" (at 64.77 93.98 0)
@@ -1966,7 +1966,7 @@
     (instances
       (project "board"
         (path "/2f4d49fd-9c63-4eb5-a266-4b5553b3e489/86ee93c3-557f-4dc7-a98b-7b4dc8a79ba7"
-          (reference "U4") (unit 1)
+          (reference "U203") (unit 1)
         )
       )
     )
