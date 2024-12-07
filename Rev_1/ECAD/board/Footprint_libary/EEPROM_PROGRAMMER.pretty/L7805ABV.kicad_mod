@@ -30,7 +30,7 @@
   (pad "1" thru_hole circle (at -2.54 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 87bbf5f1-22df-49ef-8716-ff84dcb19901))
   (pad "2" thru_hole circle (at 0 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 5ebbd68d-f63e-4dc2-8a1f-26c010c500e7))
   (pad "3" thru_hole circle (at 2.54 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp e016f7b0-d2e5-406c-bbb6-85e930f5bb1a))
-  (model "N:/Project/FilipNorlin_github/EEPROM_PROGRAMMER/Rev_1/ECAD/board/3d_library/EEPROM_PROGRAMMER/L7805ABV.STEP"
+  (model "/Users/filipnorlin/Documents/Github/github_FilipNorlin/EEPROM_PROGRAMMER/Rev_1/ECAD/board/3d_library/EEPROM_PROGRAMMER/L7805ABV.STEP"
     (offset (xyz 0 0.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

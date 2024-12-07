@@ -31,7 +31,7 @@
     (stroke (width 0.05) (type default)) (layer "F.CrtYd") (tstamp 6c4ef0a9-9a9d-41a7-88d1-6618003d9ed9))
   (pad "1" thru_hole circle (at -2.54 0) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 0a75e8cc-d640-4ec3-be74-15580f9e2d85))
   (pad "2" thru_hole circle (at 2.54 0) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 9784ea92-0a88-4e98-aab2-46c12697666c))
-  (model "N:/Project/FilipNorlin_github/EEPROM_PROGRAMMER/Rev_1/ECAD/board/3d_library/EEPROM_PROGRAMMER/Crystal.STEP"
+  (model "/Users/filipnorlin/Documents/Github/github_FilipNorlin/EEPROM_PROGRAMMER/Rev_1/ECAD/board/3d_library/EEPROM_PROGRAMMER/Crystal.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1.5 1.4 1.4))
     (rotate (xyz -90 0 0))

@@ -97,7 +97,7 @@
     (thermal_bridge_angle 45) (tstamp 3de41d9e-2a98-4692-a34a-8f2028241726))
   (pad "32" smd roundrect (at -2.8 -3.5 90) (size 1.5 0.5) (drill (offset 0.75 0)) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (thermal_bridge_angle 45) (tstamp d9e6231e-5519-4198-963d-431dd70d10b1))
-  (model "N:/Project/FilipNorlin_github/EEPROM_PROGRAMMER/Rev_1/ECAD/board/3d_library/EEPROM_PROGRAMMER/ATMega328P-AU.STEP"
+  (model "/Users/filipnorlin/Documents/Github/github_FilipNorlin/EEPROM_PROGRAMMER/Rev_1/ECAD/board/3d_library/EEPROM_PROGRAMMER/ATMega328P-AU.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 180 180))

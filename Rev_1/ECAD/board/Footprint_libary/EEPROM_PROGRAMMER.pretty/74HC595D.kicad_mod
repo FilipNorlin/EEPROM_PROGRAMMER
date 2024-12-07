@@ -59,7 +59,7 @@
     (thermal_bridge_angle 45) (tstamp f2075da7-c73d-4020-8451-4cabf0d50990))
   (pad "16" smd roundrect (at 2.4 -4.445) (size 1.6 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1166666667)
     (thermal_bridge_angle 45) (tstamp 3a3aae33-750a-42ba-a897-03bb5a61e4e1))
-  (model "N:/Project/FilipNorlin_github/EEPROM_PROGRAMMER/Rev_1/ECAD/board/3d_library/EEPROM_PROGRAMMER/74HC595D.STEP"
+  (model "/Users/filipnorlin/Documents/Github/github_FilipNorlin/EEPROM_PROGRAMMER/Rev_1/ECAD/board/3d_library/EEPROM_PROGRAMMER/74HC595D.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 180 90))

@@ -37,7 +37,7 @@
     (thermal_bridge_angle 45) (tstamp 1c6495c5-6001-4aa2-a589-dfc90da0a5a7))
   (pad "6" thru_hole roundrect (at 4.32 3.22) (size 1 2) (drill oval 0.5 1.4) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.5)
     (thermal_bridge_angle 45) (tstamp 088f1eec-d3e0-4353-aa01-9788e2f2afbd))
-  (model "N:/Project/FilipNorlin_github/EEPROM_PROGRAMMER/Rev_1/ECAD/board/3d_library/EEPROM_PROGRAMMER/USB_C.STEP"
+  (model "/Users/filipnorlin/Documents/Github/github_FilipNorlin/EEPROM_PROGRAMMER/Rev_1/ECAD/board/3d_library/EEPROM_PROGRAMMER/USB_C.STEP"
     (offset (xyz 0 0.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

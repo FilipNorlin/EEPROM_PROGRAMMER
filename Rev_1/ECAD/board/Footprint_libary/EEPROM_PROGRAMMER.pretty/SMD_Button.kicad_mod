@@ -41,7 +41,7 @@
     (thermal_bridge_angle 45) (tstamp c86adc85-db97-45bc-9284-2fad26cebe6f))
   (pad "3" smd roundrect (at 4.2 0) (size 1.6 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (thermal_bridge_angle 45) (tstamp e406503c-abba-4293-91bb-14d6f019c148))
-  (model "N:/Project/FilipNorlin_github/EEPROM_PROGRAMMER/Rev_1/ECAD/board/3d_library/EEPROM_PROGRAMMER/SMD-BUTTON.step"
+  (model "/Users/filipnorlin/Documents/Github/github_FilipNorlin/EEPROM_PROGRAMMER/Rev_1/ECAD/board/3d_library/EEPROM_PROGRAMMER/SMD-BUTTON.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1.4 1 1.2))
     (rotate (xyz -90 0 0))
