@@ -2783,7 +2783,7 @@
     (effects (font (size 2.56 2.56)) (justify left bottom))
     (uuid 4cf4fcdb-9dfa-45f8-b69d-876a81d5bcef)
   )
-  (text "R329 - R332 = 10kohm" (at -10.795 51.435 0)
+  (text "R329 - R332 = 10kohm" (at 33.02 65.405 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5955fd8a-1a0e-4fac-bece-c246b92f2d98)
   )
