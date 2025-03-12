@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "EEPROM_PROGRAMMER")(type "KiCad")(uri "N:/Project/FilipNorlin_github/EEPROM_PROGRAMMER/Rev_2/ECAD/board/Footprint_libary/EEPROM_PROGRAMMER.pretty")(options "")(descr ""))
+)
