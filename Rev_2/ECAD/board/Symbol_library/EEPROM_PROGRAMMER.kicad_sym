@@ -890,13 +890,11 @@
     (property "Datasheet" "https://www.electrokit.com/piezoelement-12x9.5mm-aktiv" (at 0 7.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Summer_0_1"
+    (symbol "Summer_1_1"
       (circle (center 0 0) (radius 2.54)
         (stroke (width 0) (type default))
-        (fill (type none))
+        (fill (type background))
       )
-    )
-    (symbol "Summer_1_1"
       (pin input line (at -5.08 0 0) (length 2.54)
         (name "+" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
