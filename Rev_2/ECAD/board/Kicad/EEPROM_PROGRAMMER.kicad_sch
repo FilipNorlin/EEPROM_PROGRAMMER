@@ -1169,6 +1169,8 @@
   )
 
   (no_connect (at 31.75 48.895) (uuid 161dbfa3-0fc2-4291-ac9b-b31260a5636f))
+  (no_connect (at 95.25 161.29) (uuid 46a9799f-4561-4850-9e79-f385f5b1085f))
+  (no_connect (at 95.25 158.75) (uuid 4b9e46a3-3a6d-40a0-b27d-4582d6c97a12))
 
   (wire (pts (xy 78.74 46.355) (xy 78.74 50.8))
     (stroke (width 0) (type default))
@@ -3185,6 +3187,23 @@
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf"
           (reference "R10") (unit 1)
         )
+      )
+    )
+  )
+
+  (sheet (at 142.875 189.865) (size 27.305 20.955) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid e6eb4102-166f-4b1b-abe2-a5baef46cf43)
+    (property "Sheetname" "EEPROM_LOGIC" (at 142.875 189.1534 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "eeprom_logic.kicad_sch" (at 142.875 211.4046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "EEPROM_PROGRAMMER"
+        (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf" (page "2"))
       )
     )
   )

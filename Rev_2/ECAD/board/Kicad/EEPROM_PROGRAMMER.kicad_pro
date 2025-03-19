@@ -326,6 +326,10 @@
     [
       "bc7d165f-daf1-4bac-b7f4-5fbe134c87cf",
       ""
+    ],
+    [
+      "e6eb4102-166f-4b1b-abe2-a5baef46cf43",
+      "EEPROM_LOGIC"
     ]
   ],
   "text_variables": {}
