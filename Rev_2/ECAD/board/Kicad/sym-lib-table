@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "EEPROM_PROGRAMMER")(type "KiCad")(uri "N:/Project/FilipNorlin_github/EEPROM_PROGRAMMER/Rev_2/ECAD/board/Symbol_library/EEPROM_PROGRAMMER.kicad_sym")(options "")(descr ""))
+  (lib (name "EEPROM_PROGRAMMER")(type "KiCad")(uri "/Users/filipnorlin/Documents/Github/github_FilipNorlin/EEPROM_PROGRAMMER/Rev_2/ECAD/board/Symbol_library/EEPROM_PROGRAMMER.kicad_sym")(options "")(descr ""))
 )
