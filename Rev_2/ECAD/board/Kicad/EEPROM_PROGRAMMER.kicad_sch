@@ -1857,7 +1857,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 28a1b37a-182e-4163-b966-11ab2190daf0)
   )
-  (label "SELECT" (at 98.425 155.575 0) (fields_autoplaced)
+  (label "D10{slash}SELECT" (at 98.425 155.575 0) (fields_autoplaced)
     (effects (font (size 1 1)) (justify left bottom))
     (uuid 39963b58-b9a3-40ae-98e1-aebb7e1a1b45)
   )
