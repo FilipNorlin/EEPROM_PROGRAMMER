@@ -2426,7 +2426,7 @@
           (reference "C11") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "C12") (unit 1)
+          (reference "C102") (unit 1)
         )
       )
     )
@@ -2576,7 +2576,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R109") (unit 1)
+          (reference "R111") (unit 1)
         )
       )
     )
@@ -2658,7 +2658,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R111") (unit 1)
+          (reference "R113") (unit 1)
         )
       )
     )
@@ -2715,7 +2715,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R105") (unit 1)
+          (reference "R107") (unit 1)
         )
       )
     )
@@ -2773,7 +2773,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R121") (unit 1)
+          (reference "R123") (unit 1)
         )
       )
     )
@@ -2802,7 +2802,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R112") (unit 1)
+          (reference "R114") (unit 1)
         )
       )
     )
@@ -3137,7 +3137,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R120") (unit 1)
+          (reference "R122") (unit 1)
         )
       )
     )
@@ -3284,7 +3284,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R117") (unit 1)
+          (reference "R119") (unit 1)
         )
       )
     )
@@ -3338,7 +3338,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R104") (unit 1)
+          (reference "R106") (unit 1)
         )
       )
     )
@@ -3396,7 +3396,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R116") (unit 1)
+          (reference "R118") (unit 1)
         )
       )
     )
@@ -3479,7 +3479,7 @@
           (reference "C11") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "C13") (unit 1)
+          (reference "C103") (unit 1)
         )
       )
     )
@@ -3661,7 +3661,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R115") (unit 1)
+          (reference "R117") (unit 1)
         )
       )
     )
@@ -3690,7 +3690,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R113") (unit 1)
+          (reference "R115") (unit 1)
         )
       )
     )
@@ -3909,7 +3909,7 @@
           (reference "C11") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "C16") (unit 1)
+          (reference "C106") (unit 1)
         )
       )
     )
@@ -4250,7 +4250,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R103") (unit 1)
+          (reference "R105") (unit 1)
         )
       )
     )
@@ -4393,7 +4393,7 @@
           (reference "C11") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "C18") (unit 1)
+          (reference "C108") (unit 1)
         )
       )
     )
@@ -4478,7 +4478,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R110") (unit 1)
+          (reference "R112") (unit 1)
         )
       )
     )
@@ -4585,7 +4585,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R118") (unit 1)
+          (reference "R120") (unit 1)
         )
       )
     )
@@ -4650,10 +4650,10 @@
   (symbol (lib_id "Device:R") (at 109.855 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d27e85fb-ed8f-478f-8602-cacb3eac58c8)
-    (property "Reference" "R1" (at 112.395 223.52 0)
+    (property "Reference" "R1" (at 111.76 223.52 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4k7" (at 112.395 226.06 0)
+    (property "Value" "4k7" (at 111.76 226.06 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 108.077 224.79 90)
@@ -4670,7 +4670,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R101") (unit 1)
+          (reference "R103") (unit 1)
         )
       )
     )
@@ -4699,7 +4699,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R12") (unit 1)
+          (reference "R102") (unit 1)
         )
       )
     )
@@ -4728,7 +4728,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R108") (unit 1)
+          (reference "R110") (unit 1)
         )
       )
     )
@@ -4737,10 +4737,10 @@
   (symbol (lib_id "Device:C") (at 373.38 40.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d5f4e0e3-f52c-41f0-b9ff-b4005a43959c)
-    (property "Reference" "C11" (at 376.555 39.37 0)
+    (property "Reference" "C11" (at 377.19 39.37 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100n" (at 376.555 41.91 0)
+    (property "Value" "100n" (at 377.19 41.91 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 374.3452 44.45 0)
@@ -4757,7 +4757,7 @@
           (reference "C11") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "C14") (unit 1)
+          (reference "C104") (unit 1)
         )
       )
     )
@@ -4786,7 +4786,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R114") (unit 1)
+          (reference "R116") (unit 1)
         )
       )
     )
@@ -4815,7 +4815,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R107") (unit 1)
+          (reference "R109") (unit 1)
         )
       )
     )
@@ -4869,7 +4869,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R106") (unit 1)
+          (reference "R108") (unit 1)
         )
       )
     )
@@ -4898,7 +4898,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R102") (unit 1)
+          (reference "R104") (unit 1)
         )
       )
     )
@@ -5183,7 +5183,7 @@
           (reference "C11") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "C17") (unit 1)
+          (reference "C107") (unit 1)
         )
       )
     )
@@ -5192,10 +5192,10 @@
   (symbol (lib_id "Device:C") (at 384.81 40.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fa31e963-d4ad-4baa-afb9-a65c2efb114d)
-    (property "Reference" "C11" (at 387.985 39.37 0)
+    (property "Reference" "C11" (at 388.62 39.37 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100n" (at 387.985 41.91 0)
+    (property "Value" "100n" (at 388.62 41.91 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 385.7752 44.45 0)
@@ -5212,7 +5212,7 @@
           (reference "C11") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "C15") (unit 1)
+          (reference "C105") (unit 1)
         )
       )
     )
@@ -5270,7 +5270,7 @@
           (reference "R1") (unit 1)
         )
         (path "/bc7d165f-daf1-4bac-b7f4-5fbe134c87cf/e6eb4102-166f-4b1b-abe2-a5baef46cf43"
-          (reference "R119") (unit 1)
+          (reference "R121") (unit 1)
         )
       )
     )
