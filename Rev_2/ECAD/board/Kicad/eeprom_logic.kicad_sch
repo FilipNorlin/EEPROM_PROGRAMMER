@@ -2006,6 +2006,10 @@
     (uuid f566a80c-46d9-43ae-b41f-97aa6508e128)
   )
 
+  (text "Bypass Capacitors\n" (at 348.615 23.495 0)
+    (effects (font (size 2.56 2.56)) (justify left bottom))
+    (uuid 5dd7f1e1-27f8-4384-95ae-219cd288c4eb)
+  )
   (text "LED INDICATORS" (at 163.195 210.185 0)
     (effects (font (size 5.12 5.12)) (justify left bottom))
     (uuid aaef8f4c-6584-4e24-8583-83ac13d6c84c)
